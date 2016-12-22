@@ -24,3 +24,8 @@ mv ~/.bash_profile ~/.bash_profile_old
 cp -f .bash_profile ~
 cp -f .gitignore ~
 cp -f .gitconfig ~
+
+# Set config options
+# Reverse scrolling
+# Install backgrounds?
+# Look up in macOS Config repo for ideas
