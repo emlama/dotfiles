@@ -13,3 +13,14 @@ Typically, I end up setting a bunch of OS X settings anyways so I should get the
 - Login items
 - Keyboard shortcuts for Sketch
 - Keys for EVERYTHING
+
+# After install
+
+## Sync Sublime Text settings
+Once Dropbox is up and running the Sublime Settings will sync. Run this command:
+
+````
+cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
+rm -r User
+ln -s ~/Dropbox/Sublime/User
+````
