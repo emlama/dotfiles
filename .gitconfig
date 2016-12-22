@@ -4,7 +4,7 @@
     required = true
 [user]
     name = Matt Saforrian
-    email = msaforrian@quickbase.com
+    email = myemail@gmail.com
 [filter "lfs"]
     clean = git lfs clean %f
     smudge = git lfs smudge %f
