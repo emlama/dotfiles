@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>build</key>
+	<real>705</real>
+	<key>license</key>
+	<string>9525-1811-4954-3257-1995</string>
+	<key>preferences</key>
+	<dict>
+		<key>Battery_MenubarCustomizeStates</key>
+		<integer>0</integer>
+		<key>Battery_MenubarHideUPS</key>
+		<integer>0</integer>
+		<key>Battery_MenubarMode</key>
+		<string>3</string>
+		<key>Diagnostics_Enabled</key>
+		<integer>1</integer>
+		<key>Diagnostics_Sent_3.2</key>
+		<true/>
+		<key>Diagnostics_Sent_3.3</key>
+		<true/>
+		<key>StatusItems-Order</key>
+		<array>
+			<integer>4</integer>
+			<integer>1</integer>
+			<integer>6</integer>
+			<integer>7</integer>
+		</array>
+		<key>Time_Cities</key>
+		<array>
+			<real>5128581</real>
+			<real>5391959</real>
+		</array>
+		<key>Time_DropdownCityLayout</key>
+		<integer>0</integer>
+		<key>Time_DropdownShowMoon</key>
+		<integer>1</integer>
+		<key>Time_MenubarFlashSeperators</key>
+		<integer>0</integer>
+		<key>Time_MenubarFormat</key>
+		<array>
+			<string>___ICON__RED___</string>
+			<string>' '</string>
+			<string>hh</string>
+			<string>':'</string>
+			<string>mm</string>
+		</array>
+		<key>Time_TextSize</key>
+		<integer>14</integer>
+		<key>Time_WeekNumberFormat</key>
+		<integer>0</integer>
+	</dict>
+	<key>version</key>
+	<real>5.309999942779541</real>
+</dict>
+</plist>
