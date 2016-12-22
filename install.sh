@@ -5,12 +5,12 @@ xcode-select --install
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 # Install CLI tools
-brew install yarn mas trash autojump hyper git wget nmap 
+brew install yarn mas trash autojump hyper git wget nmap
 npm i -g eslint hpm-cli stylelint
 hpm i hyperterm-material hyperterm-blink hyperterm-tab-icons hyperlinks
 
 # Install Apps via Cask
-brew cask install google-chrome sublime-text alfred istat-menus numi flux skyfonts transmission firefox vlc spotify axure-rp balsamiq-mockups cakebrew framer github-desktop
+brew cask install google-chrome sketch hyper steam sublime-text alfred istat-menus numi flux skyfonts transmission firefox vlc spotify axure-rp balsamiq-mockups cakebrew framer github-desktop
 
 # Signin to MAS
 mas signin myemail@gmail.com
