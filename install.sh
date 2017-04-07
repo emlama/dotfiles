@@ -102,6 +102,5 @@ cp -f .gitconfig ~
 
 # TODO
 # import default_settings.sh
-# Reverse scrolling
 # Install backgrounds?
 # Look up in macOS Config repo for ideas
