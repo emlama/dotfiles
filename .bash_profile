@@ -13,4 +13,7 @@ export LSCOLORS=ExFxBxDxCxegedabagacad
 
 export PS1="\w @ (\u) => "
 
-export HOMEBREW_GITHUB_API_TOKEN="bfd211e0defd3728ad3c542758a73c9e5e5bd3aa"
+export HOMEBREW_GITHUB_API_TOKEN=""
+
+export NVM_DIR="$HOME/.nvm"
+  . "/usr/local/opt/nvm/nvm.sh"

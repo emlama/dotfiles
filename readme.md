@@ -13,6 +13,8 @@ Typically, I end up setting a bunch of OS X settings anyways so I should get the
 - Login items
 - Keyboard shortcuts for Sketch
 - Keys for EVERYTHING
+- Add editor variable to bash_profile
+- Open apps after an install!
 
 # After install
 
