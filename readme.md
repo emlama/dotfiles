@@ -1,20 +1,19 @@
 # Overview
 This repo is a way to automate the setup of a brand new mac.
 
-I've done this multiple times of the years and always end up fiddling with this and that and figured I should get it all down in one place.
+I've done this multiple times of the years and always end up fiddling with too much before I get things __just right__.
 
-Eventually I'll migrate all these settings over to macOS Config but for now this works.
+
 
 # Todo
-Typically, I end up setting a bunch of OS X settings anyways so I should get them in here and be done with them for once and for all.
+Here are a few things that I don't have in here but might want:
 
-- Backgrounds folder
-- Default browser
+- Sync desktop wallpapers
+- Set my default browser
 - Login items
-- Keyboard shortcuts for Sketch
-- Keys for EVERYTHING
-- Add editor variable to bash_profile
-- Open apps after an install!
+- Custom Keyboard shortcuts for Sketch
+- Find a way to sync keys/secrets out of Lastpass or other store (Sketch, github tokens, etc)
+- Add .editorconfig and .eslint to home directory (nice defaults)
 
 # After install
 
@@ -32,3 +31,7 @@ cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
 rm -r User
 ln -s ~/Dropbox/Sublime/User
 ````
+
+## Sync Visual Studio Code Settings
+
+[Apparently an extension does that](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
